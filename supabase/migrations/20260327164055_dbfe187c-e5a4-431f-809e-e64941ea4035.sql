@@ -1,0 +1,1 @@
+ALTER TABLE public.trade_licence ENABLE ROW LEVEL SECURITY;

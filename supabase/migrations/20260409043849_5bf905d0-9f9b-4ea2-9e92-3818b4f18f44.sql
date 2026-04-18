@@ -1,0 +1,1 @@
+ALTER TABLE public.equipments ENABLE ROW LEVEL SECURITY;

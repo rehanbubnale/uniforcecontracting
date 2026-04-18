@@ -1,0 +1,1 @@
+CREATE POLICY "Allow public read on employees" ON public.employees FOR SELECT TO anon, authenticated USING (true);

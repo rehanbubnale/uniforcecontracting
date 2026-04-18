@@ -1,0 +1,1 @@
+CREATE POLICY "Allow public read on project_details" ON public.project_details FOR SELECT TO anon, authenticated USING (true);
