@@ -92,7 +92,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <p className="text-sm text-muted-foreground">Email</p>
-                      <p className="font-medium text-foreground">uniforcecontracting@gmail.com/info@uniforcedxb.com</p>
+                      <p className="font-medium text-foreground">uniforcecontracting@gmail.com<br />info@uniforcedxb.com</p>
                     </div>
                   </a>
                   <a href="tel:+97143706944" className="flex items-center gap-4 group">
