@@ -15,7 +15,6 @@ const stats = [
 const services = [
   { icon: Building2, title: "Residential Construction", desc: "Premium residential buildings designed for modern living." },
   { icon: HardHat, title: "Commercial Construction", desc: "State-of-the-art commercial spaces that drive business growth." },
-  { icon: TrendingUp, title: "Infrastructure Development", desc: "Roads, bridges, and utilities built to last." },
   { icon: Shield, title: "Project Management", desc: "Expert oversight from planning to completion." },
 ];
 
@@ -73,7 +72,7 @@ const Index = () => {
                   A Legacy of Excellence in Construction
                 </h2>
                 <p className="mt-4 text-muted-foreground leading-relaxed">
-                  UNIFORCE CONTRACTING L.L.C. is a premier civil engineering and construction company based in Dubai, UAE. With over 14 years of experience, we deliver world-class construction solutions across residential, commercial, and infrastructure sectors.
+                  UNIFORCE CONTRACTING L.L.C. is a premier civil engineering and construction company based in Dubai, UAE. With over 14 years of experience, we deliver world-class construction solutions across residential, and commercial sectors.
                 </p>
                 <p className="mt-3 text-muted-foreground leading-relaxed">
                   Our commitment to quality, safety, and innovation has made us a trusted partner for some of the most prestigious projects in the region.
