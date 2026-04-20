@@ -21,7 +21,7 @@ const services = [
 const testimonials = [
   { name: "Ahmed Al Maktoum", role: "Property Developer", text: "Uniforce delivered our luxury villa project on time and beyond expectations. Their attention to detail is remarkable." },
   { name: "Sarah Johnson", role: "Commercial Client", text: "Professional, reliable, and highly skilled. Our office complex was completed with outstanding quality." },
-  { name: "Mohammed Al Rashid", role: "Infrastructure Director", text: "Their infrastructure expertise is unmatched. We trust Uniforce with our most demanding projects." },
+ 
 ];
 
 const Index = () => {
